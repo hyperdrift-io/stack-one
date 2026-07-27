@@ -17,3 +17,5 @@ docs/audit.md
 docs/audit/
 docs/figma/
 docs/improved/
+
+*.tsbuildinfo
